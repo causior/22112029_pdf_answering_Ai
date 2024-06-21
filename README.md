@@ -29,7 +29,7 @@ streamlit run app.py
     
 # Dependencies
 * Python 3.7+
-* Gensim
-* PyMuPDF
+* PyPDF2
 * Scikit-learn
 * Streamlit
+* hugging face(transformers)
